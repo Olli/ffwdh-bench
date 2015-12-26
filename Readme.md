@@ -7,7 +7,7 @@ a C coder and this software is likly full of bugs
 and wrong doings. 
 I think this software works for its purpose. 
 
-Just do ./server  and on the client ./client <link local ipv6 address>%<interface>
+Just do ./server  and on the client ./client »link local ipv6 address«%»interface« (without »«)
 
 If you set on the server a buffer other than the 100000 bytes default
 you should use the same buffersize on client with -b . 
