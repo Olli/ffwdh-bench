@@ -15,3 +15,6 @@ If you want transfer more than 10MB you should add the -s 100 on the client for 
 transfer.
 
 Fork it and fix the bugs please - thx :)
+
+This software is Public Domain - you don't have to do anything
+to use, modify and distribute it. Just do it and don't ask.
